@@ -28,7 +28,7 @@ body{
 .navbar ul{
     padding-top: 20px;
     display: inline;
-    padding-left: 320px;
+    padding-left: 280px;
 }
 .navbar ul li{
     display: inline;
@@ -39,7 +39,7 @@ body{
     text-decoration: none;
     color: black;
     border: 2px solid white;
-    padding-left: 30px;
+    padding-left: 20px;
 }
 .navbar ul li a:hover{
     color: #b0f160;
